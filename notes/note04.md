@@ -49,7 +49,7 @@ Notice that $E[Y]=0$ and $Var[X]=1$.
 ## Moment-Generating function
 
 If the power series
-$$m_X(t):=\sum_{n=0}^{\infin}\frac{E[X^n]}{n!}t^n$$
+$$m_X(t):=\sum_{n=0}^{\infty}\frac{E[X^n]}{n!}t^n$$
 has radius of convergence $\varepsilon > 0$,
 $$m_X:(-\varepsilon,\varepsilon)\to\mathbb{R}$$
 is called the moment-generating function for $X$.
